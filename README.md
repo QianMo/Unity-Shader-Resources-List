@@ -6,6 +6,12 @@ This is a list of amazing resources for learning shader writing in Unity:
 * [Unity Documentation - Shader Reference](https://docs.unity3d.com/Manual/SL-Reference.html)
 * [CG Programming in Unity](https://en.wikibooks.org/wiki/Cg_Programming/Unity "CG Programming in Unity")
 * [Resources-for-Writing-Shaders-in-Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity "Resources-for-Writing-Shaders-in-Unity")
+* [[Video] Unite 2015 - Writing Shaders](https://www.youtube.com/watch?v=epixwRw80MM)
+* [[Video] Unite Europe 2016 - A Crash Course to Writing Custom Unity Shaders!](https://www.youtube.com/watch?v=3penhrrKCYg)
+*  [[Video] Noob to Pro Unity Shader Writing in Unity 4](https://www.youtube.com/playlist?list=PLV4HCa5XqFT02gZOZ_Jb_A66wqDhZMCkN) - Nice explanation of shaders and shader structure in this good video series on Shaders in Unity
+* [[Video] Unity Cg Shaders](https://www.youtube.com/watch?v=hDJQXzajiPg) - Unity CG shader tutorial series by Prime31
+* [shadercat](http://www.shadercat.com/) - Blog about exploring Unity 5's Shader System Code(Standard Shader).
+* [shadertoy](https://www.shadertoy.com/) - Amazing website about building and Sharing your best shaders with the world and get Inspired.
 
 ##Mobile Shader Optimization
 * ["Fast Mobile Shaders" talk at siggraph 2011](https://blogs.unity3d.com/2011/08/18/fast-mobile-shaders-talk-at-siggraph/)
