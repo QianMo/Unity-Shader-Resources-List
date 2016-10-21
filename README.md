@@ -1,8 +1,9 @@
 #Unity Shader Resources Collection
-This is a list of amazing resources for learning shader writing in Unity:
+This is a list of amazing resources for learning shader writing in Unity.
 
 
 ##Shader Writing
+* [Unity Wiki - Getting Started with Shaders](http://wiki.unity3d.com/index.php/Getting_Started_with_Shaders)
 * [Unity Documentation - Shader Reference](https://docs.unity3d.com/Manual/SL-Reference.html)
 * [CG Programming in Unity](https://en.wikibooks.org/wiki/Cg_Programming/Unity "CG Programming in Unity")
 * [Unity Wiki - Shaders](http://wiki.unity3d.com/index.php/Shaders)
