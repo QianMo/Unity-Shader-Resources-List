@@ -13,7 +13,7 @@ This is a list of amazing resources for learning shader writing in Unity.
 * [[Video] Unite Europe 2016 - A Crash Course to Writing Custom Unity Shaders!](https://www.youtube.com/watch?v=3penhrrKCYg)
 *  [[Video] Noob to Pro Unity Shader Writing in Unity 4](https://www.youtube.com/playlist?list=PLV4HCa5XqFT02gZOZ_Jb_A66wqDhZMCkN) - Nice explanation of shaders and shader structure in this good video series on Shaders in Unity
 * [[Video] Unity Cg Shaders](https://www.youtube.com/watch?v=hDJQXzajiPg) - Unity CG shader tutorial series by Prime31
-* [[Video] Unity shaders free-to-use Playlist](https://www.youtube.com/watch?v=Cm-IPA4cySA&list=PLtt-rl-OtMbJFHEelLN5n9mLwL7bml1Ng&index=1) 
+* [[Video] Unity Shaders Free-To-Use Youtube Playlist](https://www.youtube.com/watch?v=Cm-IPA4cySA&list=PLtt-rl-OtMbJFHEelLN5n9mLwL7bml1Ng&index=1) - a list of free to use shader exmaples.
 * [shadertoy](https://www.shadertoy.com/) - Amazing website about building and Sharing your best shaders with the world and get Inspired.
 
 
