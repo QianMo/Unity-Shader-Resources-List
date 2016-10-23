@@ -30,3 +30,4 @@ This is a list of amazing resources for learning shader writing in Unity.
 ##Computer Graphics Resources
 * [graphics-resources](https://github.com/mattdesl/graphics-resources)
 * [Real-Time Rendering Resources](http://www.realtimerendering.com/)
+* [Resource for Computer Graphics](http://kesen.realtimerendering.com/ "Resource for Computer Graphics")
