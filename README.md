@@ -1,8 +1,8 @@
-#Unity Shader Resources Collection
+# Unity Shader Resources Collection
 This is a list of amazing resources for learning shader writing in Unity.
 
 
-##Shader Writing
+## Shader Writing
 * [Unity Wiki - Getting Started with Shaders](http://wiki.unity3d.com/index.php/Getting_Started_with_Shaders)
 * [Unity Documentation - Shader Reference](https://docs.unity3d.com/Manual/SL-Reference.html)
 * [CG Programming in Unity](https://en.wikibooks.org/wiki/Cg_Programming/Unity "CG Programming in Unity")
@@ -18,7 +18,7 @@ This is a list of amazing resources for learning shader writing in Unity.
 * [Shader laboratory](http://www.shaderslab.com/index.php?)
 
 
-##Mobile Shader Optimization
+## Mobile Shader Optimization
 * ["Fast Mobile Shaders" talk at siggraph 2011](https://blogs.unity3d.com/2011/08/18/fast-mobile-shaders-talk-at-siggraph/)
 * [Unity Documentation - Practical Guide to Optimization for Mobiles：Rendering Optimizations](https://docs.unity3d.com/Manual/MobileOptimizationPracticalRenderingOptimizations.html)
 * [Unity Documentation - Optimizing Shader Load Time](https://docs.unity3d.com/Manual/OptimizingShaderLoadTime.html)
@@ -28,7 +28,7 @@ This is a list of amazing resources for learning shader writing in Unity.
 *  [Shadercat](http://www.shadercat.com/) - Blog about exploring Unity 5's Shader System Code(Standard Shader).
 * [[Video]Unity Standard Shader](https://www.youtube.com/watch?v=fD_ho_ofY6A&list=PLraRC59GS-2p8mH9dEuzAVgFgwcS1Dxam)
 
-##Computer Graphics Resources
+## Computer Graphics Resources
 * [graphics-resources](https://github.com/mattdesl/graphics-resources)
 * [Real-Time Rendering Resources](http://www.realtimerendering.com/)
 * [Resource for Computer Graphics](http://kesen.realtimerendering.com/ "Resource for Computer Graphics")
